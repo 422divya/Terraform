@@ -82,4 +82,4 @@ $ terraform plan  <<= It will show what code will be doing
 
 $ terraform apply  <<== It will run the code and create the ec2 instance on aws
 
-13- After terraform plan a terraform state file will be created which stores the details of infrastructure created.
+13- After terraform apply a terraform state file will be created which stores the details of infrastructure created.
